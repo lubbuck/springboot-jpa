@@ -6,7 +6,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.lubbuck.course.entitier.User;
+import com.lubbuck.course.entities.User;
 import com.lubbuck.course.repositories.UserRepository;
 
 @Service
